@@ -1,0 +1,51 @@
+window {
+  background-color: #0f0f0f; /* Darker background for main wofi window */
+}
+
+* {
+  font-family: "Jetbrains Mono";
+  color: #fff; /* White text for visibility */
+}
+
+#scroll {
+  padding: 0.5rem;
+}
+
+#input {
+  background-color: #0f0f0f; /* Dark background for input */
+  color: white;
+  outline: none;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0.5rem; /* Rounded input corners */
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+#inner-box {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+#img {
+  margin: 10px 10px;
+}
+
+#entry {
+  border-radius: 0.5rem; /* Rounded corners for entry items */
+  color: white;
+}
+
+#entry:selected {
+  background-color: rgba(59, 62, 69, 0.2); /* Red background for selected entries */
+  color: white;
+  outline: none;
+}
+
+#text:selected {
+  color: white; /* Dark text color when selected */
+}
+
+#menu {
+  back
+
