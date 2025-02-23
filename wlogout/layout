@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "hyprlock -c ~/.config/hypr/AnimeConfig/hyprlock.conf",
+    "action" : "hyprlock -c ~/.config/hypr/hyprlock.conf",
     "keybind" : "l"
 }
 {
