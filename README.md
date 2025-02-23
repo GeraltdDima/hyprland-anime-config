@@ -18,13 +18,13 @@ Packages -
 6. `ttf-jetbrains-mono`
 7. `ttf-font-awesome`
 
-### 2.Installation 
+### 2.Installation -
 
-`git clone https://github.com/GeraltdDima/hyprland-anime-config.git ~/`
-`cd ~/hyprland-anime-config`
-`cp hypr ~/.config -r`
-`cp waybar ~/.config -r`
-`cp wofi ~/.config -r`
-`cp wlogout ~/.config -r`
-`cp BashScripts ~/ -r`
-`cp Icons ~/ -r`
+1. `git clone https://github.com/GeraltdDima/hyprland-anime-config.git ~/`
+2. `cd ~/hyprland-anime-config`
+3. `cp hypr ~/.config -r`
+4. `cp waybar ~/.config -r`
+5. `cp wofi ~/.config -r`
+6. `cp wlogout ~/.config -r`
+7. `cp BashScripts ~/ -r`
+8. `cp Icons ~/ -r`
